@@ -1,3 +1,4 @@
+// +build ignore !vgo
 package vendor_dep
 
 import "a"
